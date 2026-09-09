@@ -3,7 +3,7 @@ name: Python CI workflow
 on:
   push:
     branches:
-      -main
+      - main
   workflows_dispatch:
 
 jobs:
