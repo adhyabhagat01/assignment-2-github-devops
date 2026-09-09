@@ -1,3 +1,4 @@
+#Calculator application for GitHub Actions CI
 def add(a, b):
     return a + b
 
